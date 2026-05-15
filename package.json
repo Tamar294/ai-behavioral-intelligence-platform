@@ -1,0 +1,9 @@
+{
+  "name": "behavior-detection-system",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend",
+    "shared"
+  ]
+}
